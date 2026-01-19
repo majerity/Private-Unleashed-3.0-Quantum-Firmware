@@ -29,3 +29,9 @@ Christmas update!
 + Added latest updates from OFW and UL;
 ![001](images/Factory_list_QFW_cropped-1.png)
 ![002](images/AB_list_QFW_cropped-1.png)
+
+*** COMING SOON Under current development ***
++ New Ford, Land Rover, Jaguar, Lincoln, Mercury FSK &Keyless-Go up to 2023;
++ BMW and Mini Cooper;
++ Honda;
++ Mazda;
