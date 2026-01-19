@@ -1,21 +1,5 @@
 # Private-Unleashed-3.0-Quantum-Firmware New 2026 Private-Unleashed 3.0 Quantum Firmware
 
-⚠ Warning ⚠
-
-Legal & Responsible Use Notice
-This repository is published solely for cybersecurity education, research integrity, and lawful testing.
-Use of these materials implies acceptance of all applicable laws and the conditions below:
-
-Any use on systems, vehicles, or radio devices not owned or explicitly authorized is illegal under acts such as the CFAA (U.S.), UK Computer Misuse Act 1990, and EU Cybercrime Convention.
-The author and contributors do not promote, endorse, or support exploitation, unauthorized access, or signal cloning outside controlled research.
-All files are supplied “as is,” without warranties or guarantees of functionality, safety, or fitness for purpose.
-You assume all responsibility for compliance, actions, and any resulting consequences.
-If legality or intent is uncertain, you must not use, modify, or distribute this software.
-
-Maintained to advance open knowledge, security testing transparency, and responsible research.
-
-⚠ Warning ⚠
-
 -- UPDATE --
 Christmas update!
 
