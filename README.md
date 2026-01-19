@@ -35,3 +35,9 @@ Christmas update!
 + BMW and Mini Cooper;
 + Honda;
 + Mazda;
+
+![003](images/IMG_20260119_155547_935.png)
+![004](images/IMG_20260119_155625_145.png)
+
+Official dev site https://flipper-grabber.dev <--> here you can find a paid license version
+
